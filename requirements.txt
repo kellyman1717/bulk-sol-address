@@ -1,3 +1,4 @@
 bip-utils==2.7.0
 solana==0.25.0
 base58==2.1.1
+solana.keypair
