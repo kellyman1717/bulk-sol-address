@@ -11,8 +11,11 @@ Bot sederhana untuk menghasilkan address Solana (address, private key, dan seed 
 - Python 3.6 or higher
 - pip (Python package manager)
 
-## Cara Menggunakan
-1. **Instalasi Dependensi**:
-   Pastikan Anda telah menginstal Python 3.x dan pip. Kemudian, instal dependensi yang diperlukan dengan menjalankan:
+## Installation
+1. Clone atau Download Repository
+   ```bash
+   git clone https://github.com/kellyman1717/bulk-sol-address.git
+   ```
+2. Install Dependencies
    ```bash
    pip install -r requirements.txt
